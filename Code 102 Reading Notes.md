@@ -7,7 +7,7 @@
 | 4           |[class-04](https://ali-19901110.github.io/reading-notes/summarizesOfclass-04)| summarizesOfclass-04|
 | 5           |[class-05](https://ali-19901110.github.io/reading-notes/summarizesOfclass-05)| summarizesOfclass-05|
 | 6           |         |                        |
-| 7           |[](https://ali-19901110.github.io/reading-notes/summarizesOfclass-07)|summarizesOfclass-07|
+| 7           |[class-07](https://ali-19901110.github.io/reading-notes/summarizesOfclass-07)|summarizesOfclass-07|
 | 8           |         |                        |
 | 9           |         |                        |
 | 10          |         |                        |
