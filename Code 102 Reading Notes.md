@@ -8,7 +8,7 @@
 | 5           |[class-05](https://ali-19901110.github.io/reading-notes/summarizesOfclass-05)| summarizesOfclass-05|
 | 6           |         |                        |
 | 7           |[class-07](https://ali-19901110.github.io/reading-notes/summarizesOfclass-07)|summarizesOfclass-07|
-| 8           |         |                        |
+| 8           |[class-08](https://ali-19901110.github.io/reading-notes/summarizesOfclass-08)|summarizesOfclass-08|
 | 9           |         |                        |
 | 10          |         |                        |
 | 11          |         |                        |
