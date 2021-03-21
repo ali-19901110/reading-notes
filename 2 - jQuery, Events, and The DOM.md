@@ -7,3 +7,14 @@
 ![](https://d1dwq032kyr03c.cloudfront.net/upload/images/20171219/20065504och2Xekk7T.png)
 
 ### USING HTML5 EVENT
+```
+function setup() {
+var textlnput;
+textlnput = document .getElementByld( 'message ');
+textlnput.focus(); 
+}
+window.addEventlistener('DOMContentloaded' , setup, false);
+window.addEventlistener('beforeunload', function(event){
+return ' You have changes that have not been saved •.• ' ;
+}. false); 
+```
