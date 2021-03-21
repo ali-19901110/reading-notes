@@ -28,4 +28,8 @@ $('li').on('click', function() {
 $(this) . remove();
 } ) ; 
 ```
+1. The first line selects all of the `<hl> - <h6>` headings, and adds a value of headline to their cl ass attributes. 
+2. . The second line selects the first three list items and does two things: • The elements are hidden (inorder to allow the next step). • The elements fade into view
+3. The last three lines of the script set an event listener on each of the `<l i >`elements. When a user clicks on one, it triggers an anonymous function to remove that element from the page. 
+
 
