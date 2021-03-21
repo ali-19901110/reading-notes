@@ -19,3 +19,13 @@ return ' You have changes that have not been saved •.• ' ;
 }. false); 
 ```
 * The OOMContentloaded event fires before the load event (because the latter waits for all of the page's resources to load). 
+
+## First, you will learn how to select elements using jQuery selectors, and then how to update those elements using the methods and properties of the jQuery object.
+```
+G) $(' :header').addClass('headline');
+@ $(' l i : lt(3) ').hide(). fadeln(lSOO);
+$('li').on('click', function() {
+$(this) . remove();
+} ) ; 
+```
+
