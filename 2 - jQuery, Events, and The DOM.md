@@ -18,3 +18,4 @@ window.addEventlistener('beforeunload', function(event){
 return ' You have changes that have not been saved •.• ' ;
 }. false); 
 ```
+* The OOMContentloaded event fires before the load event (because the latter waits for all of the page's resources to load). 
