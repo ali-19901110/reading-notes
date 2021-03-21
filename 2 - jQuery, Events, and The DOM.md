@@ -37,4 +37,6 @@ WHY USE JQUERY?
 - The purpose of jQuery is to make it much easier to use JavaScript on your website.
 
 
+FINDING ELEMENTS USING JQUERY:
+![](https://www.pineboat.in/img/008_css_selectors/comparison_with_title.png)
 
