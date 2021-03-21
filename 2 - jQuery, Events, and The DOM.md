@@ -4,6 +4,6 @@
 - hashchange :  event is fired when the fragment identifier of the URL has changed 
 - beforeun load : event is fired when the window, the document and its resources are about to be unloaded.
 
-![](https://i.stack.imgur.com/uWj3S.png)
+![](https://d1dwq032kyr03c.cloudfront.net/upload/images/20171219/20065504och2Xekk7T.png)
 
 ### USING HTML5 EVENT
