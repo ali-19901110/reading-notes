@@ -32,4 +32,9 @@ $(this) . remove();
 2. . The second line selects the first three list items and does two things: • The elements are hidden (inorder to allow the next step). • The elements fade into view
 3. The last three lines of the script set an event listener on each of the `<l i >`elements. When a user clicks on one, it triggers an anonymous function to remove that element from the page. 
 
+WHY USE JQUERY? 
+- jQuery is a lightweight, "write less, do more", JavaScript library.
+- The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+
 
