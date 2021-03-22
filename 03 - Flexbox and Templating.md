@@ -15,6 +15,12 @@
 
 3 - Then in the router configuration, use res.render(TEMPLATE_NAME, JSON_DATA) `res.render('hello', {"name": "Sherlynn"})`
 
+4 - The second parameter would be the JSON data itself. We can also pass in a variable representing the data, for example:
+```
+var nameObject = {"name": "Sherlynn"}
+res.render('hello', nameObject)
+```
+
 
 
 
