@@ -7,6 +7,7 @@
 - `Mustache-Express` :lets you use Mustache and Express (at least version 3) together, including auto-loading partials.
 
 * To install With Yarn: `$ yarn add mustache-express` Or `$ npm install mustache --save`
-
+* Configure mustache-express in your server.js/app.js/index.js file:
+ ![](https://miro.medium.com/max/700/1*ES10lxr7tdRFVEKcRAgLEw.png)
 
 
