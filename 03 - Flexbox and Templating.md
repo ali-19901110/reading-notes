@@ -5,3 +5,8 @@
 ![](https://www.elated.com/res/Image/articles/development/easy-html-templates-with-mustache/simple-demo.png)
 
 - `Mustache-Express` :lets you use Mustache and Express (at least version 3) together, including auto-loading partials.
+
+* To install With Yarn: `$ yarn add mustache-express` Or `$ npm install mustache --save`
+
+
+
