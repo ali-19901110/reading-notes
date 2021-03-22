@@ -3,3 +3,5 @@
 - `mustache.js` : is an implementation of the mustache template system in JavaScript. It is often considered the base for JavaScript templating. And, since mustache supports various languages, we don’t need a separate templating system on the server side.
 
 ![](https://www.elated.com/res/Image/articles/development/easy-html-templates-with-mustache/simple-demo.png)
+
+- `Mustache-Express` :lets you use Mustache and Express (at least version 3) together, including auto-loading partials.
