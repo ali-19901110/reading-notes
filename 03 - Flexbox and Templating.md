@@ -9,5 +9,12 @@
 * To install With Yarn: `$ yarn add mustache-express` Or `$ npm install mustache --save`
 * Configure mustache-express in your server.js/app.js/index.js file:
  ![](https://miro.medium.com/max/700/1*ES10lxr7tdRFVEKcRAgLEw.png)
+ 
+ 
+2 - Create a views folder and add some html view templates (e.g. hello.html).
+
+3 - Then in the router configuration, use res.render(TEMPLATE_NAME, JSON_DATA) `res.render('hello', {"name": "Sherlynn"})`
+
+
 
 
