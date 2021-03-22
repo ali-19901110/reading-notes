@@ -22,5 +22,8 @@ res.render('hello', nameObject)
 ```
 
 
-## Flexbox :
+## Flexbox :makes it easier to design flexible responsive layout structure without using float or positioning.
+
+![](https://www.ostraining.com/cdn/images/webdesign/flexbox-intro/190618_flexbox_intro_004.png)
+
 
