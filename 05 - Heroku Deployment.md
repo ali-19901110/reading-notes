@@ -5,4 +5,4 @@
 ## Getting Started on Heroku with Node.js
 - The Heroku CLI requires Git
 - Command Line Interface (CLI). You use the `CLI` to manage and scale your applications.
-- Use the `heroku login` command to log in to the Heroku CLI:
+- Use the `heroku login` command to log in to the Heroku CLI: *This command opens your web browser to the Heroku login page*
