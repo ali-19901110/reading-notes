@@ -46,6 +46,10 @@ Git remote heroku added
   ...
 }
 ```
+
+### Run the app locally  ~ `heroku local web`
+### Push local changes   ~ `npm install cool-ascii-faces`
+
  
 
 
