@@ -27,4 +27,7 @@ Git remote heroku added
 
 3.  git push heroku main `git push heroku main`
 
+> How to Declare app dependencies
+- `package.json`  ------>
+
 
