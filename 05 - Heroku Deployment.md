@@ -28,6 +28,24 @@ Git remote heroku added
 3.  git push heroku main `git push heroku main`
 
 > How to Declare app dependencies
-- `package.json`  ------>
+- `package.json`  ------>  `npm init --yes`  ----------> `package.json`
+
+ > it looks something like this:
+ ```
+ {
+  "name": "node-js-getting-started",
+  "version": "0.3.0",
+  ...
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  ...
+}
+```
+ 
 
 
