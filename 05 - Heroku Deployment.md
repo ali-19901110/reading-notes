@@ -21,4 +21,8 @@ Creating sharp-rain-871... done, stack is heroku-18
 http://sharp-rain-871.herokuapp.com/ | https://git.heroku.com/sharp-rain-871.git
 Git remote heroku added
 ```
-3. 
+> Heroku generates a random name (in this case sharp-rain-871) for your app, or you can pass a parameter to specify your own app name.
+
+3.  git push heroku main `git push heroku main`
+
+
