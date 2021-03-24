@@ -14,3 +14,11 @@
 git clone https://github.com/heroku/node-js-getting-started.git
 cd node-js-getting-started
 ```
+2. Deploy the app
+```
+heroku create
+Creating sharp-rain-871... done, stack is heroku-18
+http://sharp-rain-871.herokuapp.com/ | https://git.heroku.com/sharp-rain-871.git
+Git remote heroku added
+```
+3. 
