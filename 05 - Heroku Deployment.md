@@ -8,3 +8,9 @@
 - Use the `heroku login` command to log in to the Heroku CLI: *This command opens your web browser to the Heroku login page*
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFFzXERUKZD5S9FbzLlrqZcmP-mSPh18bMw&usqp=CAU)
+
+1. Prepare the app
+```
+git clone https://github.com/heroku/node-js-getting-started.git
+cd node-js-getting-started
+```
