@@ -3,3 +3,4 @@
 > Heroku is fully managed, giving developers the freedom to focus on their core product without the distraction of maintaining servers, hardware, or infrastructure. The Heroku experience provides services, tools, workflows, and polyglot support—all designed to enhance developer productivity.
 
 ## Getting Started on Heroku with Node.js
+- The Heroku CLI requires Git
