@@ -26,3 +26,8 @@
 - The following image depicts Node’s execution model:
 
 ![](https://uploads.sitepoint.com/wp-content/uploads/2012/10/1516152673node_event_loop.png)
+
+
+- *Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses*
+
+- *Google’s V8 JavaScript engine and libuv library.*
