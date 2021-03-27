@@ -21,3 +21,8 @@
 2. A typical event is someone trying to access a port on the server
 3. Node.js files must be initiated on the server before having any effect
 4. Node.js files have extension ".js"
+
+
+- The following image depicts Node’s execution model:
+
+![](https://uploads.sitepoint.com/wp-content/uploads/2012/10/1516152673node_event_loop.png)
