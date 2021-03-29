@@ -8,3 +8,13 @@
 ` Types Of SQL Statements:`
 
 ![](https://csharpcorner.azureedge.net/UploadFile/BlogImages/01032017000551AM/image002.png)
+
+
+## General Syntax of a CREATE TABLE statement
+ ```
+ CREATE TABLE <Table_Name>
+ (<Field 1> <Data Type>,
+ <Field 2> <Data Type>,
+ \. \. \.
+ <Field N> <Data Type>);
+```
