@@ -9,7 +9,7 @@
 
 ![](https://csharpcorner.azureedge.net/UploadFile/BlogImages/01032017000551AM/image002.png)
 
-
+> The `CREATE TABLE` statement is used to create a new table in a database
 ## General Syntax of a CREATE TABLE statement
  ```
  CREATE TABLE <Table_Name>
@@ -18,3 +18,4 @@
  \. \. \.
  <Field N> <Data Type>);
 ```
+
