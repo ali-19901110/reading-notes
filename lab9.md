@@ -1,4 +1,4 @@
-
+![](https://www.leadingagile.com/wp-content/uploads/2018/02/When-functional-programming-isnt.jpg)
 ### Functional programming 
 - a programming paradigm _a style of building the structure and elements of computer programs_
   1. **Pure functions** 
