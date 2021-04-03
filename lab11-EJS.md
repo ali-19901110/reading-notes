@@ -21,7 +21,9 @@
 - package.json
 - server.js
  ```
+ 
 - package.json
+
 ```
 {
   "name": "node-ejs",
@@ -31,6 +33,7 @@
     "express": "^4.17.1"
   }
 }
+
 ```
 
 - server.js
