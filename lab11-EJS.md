@@ -4,5 +4,7 @@
 
 ![](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f9dd821cb48125c63c64b6f5c7552372/ejs.png)
 
+*How To Install EJS *
+>`$ npm install ejs`
 
 *How To Use EJS to Template Your Node Application*
