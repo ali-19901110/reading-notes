@@ -8,3 +8,16 @@
 >`$ npm install ejs`
 
 *How To Use EJS to Template Your Node Application*
+- File Structure
+```
+- views
+----- partials
+---------- footer.ejs
+---------- head.ejs
+---------- header.ejs
+----- pages
+---------- index.ejs
+---------- about.ejs
+- package.json
+- server.js
+ ```
