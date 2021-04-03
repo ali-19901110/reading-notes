@@ -21,3 +21,14 @@
 - package.json
 - server.js
  ```
+- package.json
+```
+{
+  "name": "node-ejs",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
+```
