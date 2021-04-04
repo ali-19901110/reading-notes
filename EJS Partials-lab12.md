@@ -14,3 +14,5 @@
  ```
  
  - we can  reuse it everywhere want in page of html
+
+- Including a partial in EJS is quite straightforward. You use <%- include( PARTIAL_FILE ) %> where the partial file is relative to the template you use it in.
