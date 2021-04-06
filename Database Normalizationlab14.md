@@ -9,3 +9,7 @@
 2. to minimize or avoid data modification issues
 3. to simplify queries
 
+- Data Duplication and Modification Anomalies
+1. It increases storage and decreases performance.
+2. It becomes more difficult to maintain data changes.
+
