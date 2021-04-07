@@ -7,3 +7,5 @@
 
 *Details about the percentage of employees in major international companies in terms of gender, for example, male or female, and this has increased in recent years 
 compared to previous years*
+
+- Why diversity matters to your tech company؟
