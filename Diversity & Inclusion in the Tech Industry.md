@@ -9,3 +9,5 @@
 compared to previous years*
 
 - Why diversity matters to your tech company؟
+
+![](https://www.diversityintech.co.uk/wp-content/uploads/2018/11/diversity.png)
